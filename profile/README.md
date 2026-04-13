@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="RIGBY Capital" width="120">
+  <img src="../assets/logo.svg" alt="RIGBY Capital" width="120">
 </p>
 
 <h1 align="center">RIGBY Capital</h1>
